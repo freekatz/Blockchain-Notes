@@ -38,8 +38,8 @@ Merkle tree 的作用有：
 
    比特币中的节点分为两种：
 
-   - 全节点
-   - 轻节点：只保存区块首部
+   - 全节点（full node）或者（fully validating node）
+   - 轻节点（light node）：只保存区块首部
 
    因此，在发生交易时，需要向轻结点证明交易是否正确写入了区块的 Merkle tree 中。
 
