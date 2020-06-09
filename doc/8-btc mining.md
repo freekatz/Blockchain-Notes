@@ -2,11 +2,11 @@
 
 1. 全节点
 
-   ![全节点](res/8-btc mining/all node.png)
+   ![全节点](res/8-btc_mining/all_node.png)
 
 2. 轻节点
 
-   ![轻节点](res/8-btc mining/light node.png)
+   ![轻节点](res/8-btc_mining/light_node.png)
 
 ### 挖矿
 
