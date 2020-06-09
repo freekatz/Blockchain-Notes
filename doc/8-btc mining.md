@@ -2,11 +2,11 @@
 
 1. 全节点
 
-   ![image-20200609160220910](res/7-btc mining/image-20200609160220910.png)
+   ![全节点](res/8-btc mining/all node.png)
 
 2. 轻节点
 
-   ![image-20200609160530093](res/7-btc mining/image-20200609160530093.png)
+   ![轻节点](res/8-btc mining/light node.png)
 
 ### 挖矿
 
