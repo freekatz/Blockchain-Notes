@@ -1,7 +1,7 @@
-*/*.aux
-*/*.log
-*/*.gz
-*/*.toc
-*/tex/
+*.aux
+*.log
+*.gz
+*.toc
+tex/
 
-*/tmp/
+tmp/
