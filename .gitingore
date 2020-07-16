@@ -2,6 +2,6 @@
 *.log
 *.gz
 *.toc
-tex/
+*/tex/
 
-tmp/
+*/tmp/*
