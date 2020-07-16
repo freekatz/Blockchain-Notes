@@ -1,4 +1,4 @@
-[http://arxiv.org/abs/1911.11770]:Blockchains: a Systematic Multivocal Literature Review
+[http://arxiv.org/abs/1911.11770]:Blockchains-a Systematic Multivocal Literature Review
 
 ## 主题
 
