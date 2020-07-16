@@ -1,4 +1,4 @@
-[http://arxiv.org/abs/1910.09775]:The Security Reference Architecture for Blockchains-Towards a Standardized Model for Studying Vulnerabilities, Threats, and Defenses
+[http://arxiv.org/abs/1910.09775]: The Security Reference Architecture for Blockchains-Towards a Standardized Model for Studying Vulnerabilities, Threats, and Defenses
 
 ## 主题
 
