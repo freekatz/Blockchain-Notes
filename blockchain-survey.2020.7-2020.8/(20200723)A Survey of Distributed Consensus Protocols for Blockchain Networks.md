@@ -22,7 +22,7 @@
       3. 将 PoS 分为 4 类，并抽象出每一类的通用算法
       4. 对于以上提到的共识协议，在 5 组件框架、容错和交易处理能力方面进行比较
       5. 给出一个在处于安全性、去中心化及扩展性的三难困境时如何设计共识协议的教程
-   6. 结束论文结构（如下文所示）
+   6. 介绍论文结构（如下文所示）
 2. 回顾共识协议相关工作
 
    1. 对比 Pow 和 BFT 两种流派的 transaction throughput, scalability limits, consensus finality, and security implications 几方面，简单说明两者优缺点，
