@@ -1,6 +1,6 @@
 [1]: [The Security Reference Architecture for Blockchains-Towards a Standardized Model for Studying Vulnerabilities, Threats, and Defenses](http://arxiv.org/abs/1910.09775)
 
-“【】”符号及数字表示此内容需要深入学习
+“【】”符号及数字表示此内容需要日后深入学习
 
 ## 主题
 

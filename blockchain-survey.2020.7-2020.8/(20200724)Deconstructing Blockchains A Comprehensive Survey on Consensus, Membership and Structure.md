@@ -1,6 +1,4 @@
-[1]: 
-
-“【】”符号及数字表示此内容需要日后深入学习
+[1]: [Deconstructing Blockchains: A Comprehensive Survey on Consensus, Membership and Structure](https://arxiv.org/abs/1908.08316)
 
 **重点关注论文的论述思路、方法及对比**
 
