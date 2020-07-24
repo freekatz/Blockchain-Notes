@@ -95,3 +95,98 @@ use-case types：加密货币、智能合约、通用应用(5)
 
 ## 对比
 
+无
+
+## 名词表：
+
+| English                                          | 中文                      |
+| ------------------------------------------------ | :------------------------ |
+| blockchain technology(BCT)                       | 区块链技术                |
+| applications and Challenges                      | 应用与挑战                |
+| peer-to-peer(P2P) network                        | 点对点网络                |
+| electronic cash                                  | 电子货币                  |
+| online payments                                  | 在线支付                  |
+| trusted financial institution                    | 可信金融机构              |
+| Satoshi Nakamoto                                 | 中本聪                    |
+| Bitcoin/bitcoin                                  | 比特币系统/比特币         |
+| digital distributed ledger                       | 分布式数字账本            |
+| transaction(tx)                                  | 交易                      |
+| participant                                      | 参与者                    |
+| trusted intermediary                             | 可信中介                  |
+| performing transactions                          | 执行交易                  |
+| trade-off                                        | 权衡                      |
+| blockchain architecture                          | 区块链体系结构            |
+| practitioners                                    | 从业者                    |
+| cryptocurrency                                   | 加密货币                  |
+| use-case                                         | 用例                      |
+| smart contract                                   | 智能合约                  |
+| supply-chain                                     | 供应链                    |
+| Bitcoin network                                  | 比特币网络                |
+| digitally sign/digital signature                 | 数字签名v/n               |
+| Double-spending                                  | 双花/重复支付问题         |
+| trusted third-party                              | 可行第三方                |
+| copy of the ledger                               | 账本副本                  |
+| Byzantine Generals Problem                       | 拜占庭将军问题            |
+| Non-malicious/malicious nodes                    | 无恶意/恶意节点           |
+| trustworthy consensus                            | 可信共识                  |
+| Byzantine fault tolerance                        | 拜占庭容错                |
+| Sybil attacks                                    | 女巫攻击                  |
+| Proof-of-Work (PoW)/Nakamoto consensus p rotocol | 工作量证明/中本聪共识协议 |
+| computational power                              | 算力                      |
+| mathematical puzzle                              | 数学问题                  |
+| nonce                                            | 随机数                    |
+| blockheader                                      | 块头                      |
+| mining                                           | 挖矿                      |
+| miners                                           | 矿工                      |
+| forks                                            | 分叉                      |
+| The longest chain rule                           | 最长链原则                |
+| block interval time                              | 出块间隔时间              |
+| Proof-of-Stake (PoS)                             | 权益/持有量证明           |
+| Delegated-Proof-of-Stake (DPoS)                  | 委托权益证明              |
+| Proof-of-Elap sed-Time (PoET)                    | 过去时间证明              |
+| Zero Knowledge Proofs (ZKP)                      | 零知识证明                |
+| Practical Byzantine Fault Tolerance(PBFT)        | 实用拜占庭容错            |
+| public blockchain network                        | 公链网络                  |
+| permissionless                                   | 无需许可制                |
+| private blockchain networks                      | 私链网络                  |
+| permissioned                                     | 许可制                    |
+| Consortium blockchain networks                   | 联盟链网络                |
+| public key cryptography                          | 公钥加密算法              |
+| hashing functions                                | 哈希函数                  |
+| genesis block                                    | 创世块                    |
+| decentralized applications (DApps)               | 分布式应用                |
+| address propagation                              | 地址传播                  |
+| peer discovery                                   | 对等实体发现              |
+| propagating transactions                         | 交易传播                  |
+| Ethereum                                         | 以太坊平台                |
+| authenticated nodes                              | 已认证的节点              |
+| trusted hardware                                 | 可信硬件                  |
+| forgers                                          | 铸币工人                  |
+| witnesses                                        | 见证人                    |
+| round-robin                                      | 循环                      |
+| latency                                          | 延时                      |
+| anonymity                                        | 匿名性                    |
+| confidentiality                                  | 机密性                    |
+| efficiency                                       | 效率                      |
+| throughput                                       | 吞吐量                    |
+| GHOST(Greedy Heaviest Observed Subtree) protocol |                           |
+| blocksize                                        | 区块大小                  |
+| data storage                                     | 数据存储                  |
+| data privacy                                     | 数据隐私                  |
+| DAO(Decentralized Autonomous Organization)       | 去中心化自治组织          |
+| dsability                                        | 可用性                    |
+| decentralization                                 | 去中心化                  |
+| disintermediation                                | 去中介化                  |
+| programmability                                  | 可编程                    |
+| automation                                       | 自动化                    |
+| transparency                                     | 透明性                    |
+| auditability                                     | 可审计                    |
+| immutability                                     | 不可篡改                  |
+| verifiability                                    | 可验证                    |
+| merkle tree                                      | merkle 树                 |
+| scalability                                      | 可扩展                    |
+| accessibility                                    | 可访问                    |
+| consensus in the wild                            |                           |
+| executability                                    | 可执行                    |
+| Internet-of-Things (IoT)                         | 物联网                    |
+

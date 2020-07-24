@@ -179,3 +179,71 @@
 4. 介绍的内容十分全面，但是又是都针对于文章的主题——区块链安全架构
 5. 介绍的内容也很深入，特别地，对于文章无法展开介绍的内容，如流行共识协议具体详情的介绍等等，作者都给出了推荐阅读的参考文献
 6. 美中不足的是，文中缺少了一些对于未来研究的展望和建议
+
+## 名词表：
+
+| English                                       | 中文               |
+| --------------------------------------------- | ------------------ |
+| mitigation techniques or countermeasures      | 缓解技术或对策     |
+| blockchain-specific                           | 针对于区块链的     |
+| blockchain-oriented                           | 面向区块链的       |
+| security                                      | 安全性             |
+| vulnerability                                 | 脆弱点，缺陷       |
+| threat                                        | 威胁               |
+| mining pool                                   | 矿池               |
+| infrastructure                                | 基础设施           |
+| consensus nodes                               | 共识节点           |
+| blockchain view                               | 区块链视图         |
+| Proof-of-Resource(PoR)                        | 投入资源证明       |
+| validating nodes                              | 验证节点           |
+| lightweight nodes                             | 轻节点             |
+| availability                                  | 有效性             |
+| energy efficiency                             | 能源效率           |
+| anonymity                                     | 匿名性             |
+| accountability                                | 可溯源             |
+| non-repudiation                               | 不可抵赖           |
+| semi-permissionless                           | 半许可制           |
+| liveness                                      | 活性               |
+| safety                                        | 安全性             |
+| finality                                      | 确定               |
+| stakeholder                                   | 利益相关者         |
+| honest node                                   | 诚实节点           |
+| time to finality                              | 确定时间           |
+| the number of confirmation                    | 确认数目           |
+| non-interactive verification                  | 非交互式验证       |
+| Verifiable Random Function(VRF)               | 可验证随机函数     |
+| incentive and rewarding scheme                | 激励和奖励方案     |
+| crypto-token                                  | 加密令牌           |
+| coinbase transaction                          | 铸币交易           |
+| UTXO(Unspent Transaction Output)              | 未被消费的交易输出 |
+| transaction fees                              | 交易费             |
+| lottery-based protocols                       |                    |
+| strongest chain rule                          | 最强链原则         |
+| voting-based protocols                        |                    |
+| fail-stop failures                            |                    |
+| Byzantine failures                            |                    |
+| data representation plane                     | 数据表示层         |
+| network services plane                        | 网络服务层         |
+| replicated state machine (RSM)                | 复制状态机         |
+| oracle                                        | 预言机             |
+| blockchain ecosystem                          | 区块链生态         |
+| pros and cons                                 | 优缺点             |
+| inadvertent entities                          | 无意的实体         |
+| de-anonymization                              | 去匿名化           |
+| strong consistency                            | 强一致性           |
+| threat agent                                  | 威胁源             |
+| formal verification                           | 形式化验证         |
+| best practices                                | 最佳实践           |
+| static/dynamic analysis                       | 静/动态分析        |
+| non-interactive zero-knowledge proofs (NIZKs) | 非交互式零知识证明 |
+| homomorphic encryption                        | 同态加密           |
+| ring signatures                               | 环签名             |
+| blinding signatures                           | 盲签名             |
+| trusted hardware                              | 可信硬件           |
+| trusted execution environments (TEE)          | 可信执行环境       |
+| Life-Cycle                                    | 生命周期           |
+| unlinkability                                 | 不可联系性         |
+| peer-to-peer overlay networks                 | 对等式重叠网络     |
+| interconnected autonomous systems             | 相互联系的自治系统 |
+| access control                                | 访问控制           |
+
