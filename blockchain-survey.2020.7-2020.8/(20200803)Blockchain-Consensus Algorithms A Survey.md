@@ -43,25 +43,25 @@
         3. 安全：图 6
         4. 性能：图 7
 5. 介绍激励共识协议：PoW & PoS
-    1. PoW
-        1. 计算密集型 PoW
-        2. 存储密集型 PoW
-        3. 例子：链式 PoW
-        4. 局限
-        5. 分析
-    2. PoS
+    1. PoW：prover (requestor) and verifier
+        1. 计算密集型 PoW：略
+        2. 存储密集型 PoW：memory-bound PoWs are advocated as a superior replacement for compute-bound PoWs in de-monopolising mining concentrations around some central mining nodes. Don't largely based on Hashcash. These algorithms can be further categorised as follows: Cryptonight; Scrypt and its variants; Equihash; Ethhash/Dagger; Neoscript; and Timetravel.
+        3. 例子：各种加密货币，略
+        4. 局限：Energy consumption，Mining centralisation，Tragedy of commons，Absence of penalty
+        5. 分析：表 13-15
+    2. PoS：略
         1. 链式 PoS
         2. BFT PoS
         3. 股权 PoS（DPoS）
         4. 局限
-        5. 分析
-6. 介绍其它激励共识协议
+        5. 分析：表 17-20
+6. 介绍其它激励共识协议：略
     1. 结合体
     2. 不依赖以上两种机制：PoW 和 PoS，完全创新的协议
-    3. 分析
-7. 介绍非激励共识协议
+    3. 分析：表 21-24
+7. 介绍非激励共识协议：略
     1. 依次介绍了 5 种 Hyperledger 中的共识协议
-    2. 分析
+    2. 分析：表 26-28
 8. **讨论**共识及对应加密货币涉及到的不同问题
 9. 总结，提出**决策树模型**
 
