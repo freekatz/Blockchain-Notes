@@ -1,4 +1,4 @@
-[1]: [Blockchain Consensus Algorithms: A Survey](http://arxiv.org/abs/1911.11770)
+[1]: [Blockchain Consensus Algorithms: A Survey](http://arxiv.org/abs/2001.07091)
 
 **重点关注论文的论述思路、方法及对比**
 

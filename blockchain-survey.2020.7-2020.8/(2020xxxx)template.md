@@ -1,4 +1,4 @@
-[1]: 
+[1]: template(https://template.md)
 
 “【】”符号及数字表示此内容需要日后深入学习
 
