@@ -1,4 +1,4 @@
-[1]: A Survey on Consensus Mechanisms and Mining Strategy Management in Blockchain Networks(https://doi.org/10.1109/ACCESS.2019.2896108)
+[1]: [Consistency, availability, and partition tolerance in blockchain: a survey on the consensus mechanism over peer-to-peer networking](https://doi.org/10.1007/s12243-020-00751-w)
 
 “【】”符号及数字表示此内容需要日后深入学习
 
@@ -8,7 +8,10 @@
 
 ## 主题：论文主要介绍了哪些内容
 
-
+1. survey the main consensus mechanisms on blockchain solutions
+2. highlight the properties of each one
+3. differentiate both deterministic and probabilistic consensus mechanisms
+4. highlight coordination solutions that facilitate the data distribution on the blockchain
 
 ## 结构：论文叙述结构
 
