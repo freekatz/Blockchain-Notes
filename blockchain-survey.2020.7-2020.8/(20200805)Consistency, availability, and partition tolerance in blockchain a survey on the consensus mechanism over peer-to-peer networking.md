@@ -1,4 +1,4 @@
-[1]: template(https://template.md)
+[1]: Consistency, availability, and partition tolerance in blockchain: a survey on the consensus mechanism over peer-to-peer networking(https://doi.org/10.1007/s12243-020-00751-w
 
 “【】”符号及数字表示此内容需要日后深入学习
 

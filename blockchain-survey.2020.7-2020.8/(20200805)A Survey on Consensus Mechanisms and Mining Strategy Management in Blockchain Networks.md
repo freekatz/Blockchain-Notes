@@ -1,4 +1,4 @@
-[1]: template(https://template.md)
+[1]: A Survey on Consensus Mechanisms and Mining Strategy Management in Blockchain Networks(https://doi.org/10.1109/ACCESS.2019.2896108)
 
 “【】”符号及数字表示此内容需要日后深入学习
 

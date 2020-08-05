@@ -1,4 +1,4 @@
-[1]: template(https://template.md)
+[1]: [Core Concepts, Challenges, and Future Directions in Blockchain](https://doi.org/10.1145/3366370)
 
 “【】”符号及数字表示此内容需要日后深入学习
 
