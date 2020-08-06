@@ -26,7 +26,28 @@
     6.  focus on the most prominent and illustrative concepts and examples, while providing ample references for readers to further pursue subtopics of interest.
     7.  introduce the relevant work in academic
     8.  present the structure of this article, details as following
-2.  下略
+    
+2.  略
+
+3.  略
+
+4.  传统分布式计算和区块链
+
+    1.  相关概念介绍
+
+    2.  对比：All three systems require consensus for adding new transactions. Distributed databases and permissioned blockchains require authenticated participants and thus do not need to tolerate Sybil attacks. Therefore, they can use traditional consensus protocols such as Paxos and PBFT. Public blockchains consider a much more hostile environment and therefore use consensus mechanisms that can tolerate Sybil attacks. 
+
+        However, this comes at the cost of non-deterministic consensus, which can cause forks and lead to additional vulnerabilities [57]. Accounting for these vulner- abilities adds additional constraints on the performance, scalability, and throughput of public blockchains [33], making it the least scalable among all three systems (as discussed in Section 2.5).
+
+    3.  Table 1
+
+5.  其它共识协议
+
+    1.  PoS：5.1，still allow anyone to join or leave the network and offer protection against Sybil attacks, but do not involve the energy consumption of proof of work. 
+
+        by staking cryptocurrency as a security deposit.  node then becomes a validator, as opposed to a miner in proof-of-work systems.
+
+        Proof-of-stake implementations typically assume that two-thirds of all staked tokens are held by honest participants, arguably a stronger assumption than the requirement in proof of work that a simple majority of participants are honest.
 
 ## 思路：论文对内容的组织和论证思路
 
@@ -38,7 +59,8 @@
 
 ## 要点：论文介绍的重点/关键内容
 
-
+1.  共识机制比较：4.2-5
+2.  智能合约详细介绍：8
 
 ## 结论：论文得出了那些结论，产生哪些影响
 
