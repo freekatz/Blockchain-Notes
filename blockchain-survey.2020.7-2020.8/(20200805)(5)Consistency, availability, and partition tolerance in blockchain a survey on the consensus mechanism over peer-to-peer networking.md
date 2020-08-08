@@ -17,7 +17,9 @@
 
 4.  概率性共识
     1.  PoW：4.1
-    2.  PoS：4.2
+    2.  PoS：4.2，Randomness
+5.  确定性共识
+    1.  PBFT：PBFT guarantees safety and liveness. The nodes must be deterministic, and all of them start from the same initial state. 
 
 ## 思路：论文对内容的组织和论证思路
 
@@ -29,7 +31,7 @@
 
 ## 要点：论文介绍的重点/关键内容
 
-
+1. 重点节里的最后一段总结
 
 ## 结论：论文得出了那些结论，产生哪些影响
 
