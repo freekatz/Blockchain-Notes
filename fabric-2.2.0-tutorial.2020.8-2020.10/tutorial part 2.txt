@@ -1,0 +1,5 @@
+锚节点 图示
+fabric 区块结构，通过peer调用获取.block文件，再通过configtxgen转为.json文件
+fabric 交易结构，根据上面的文件继续深入查看，简要说一说
+fabric 区块链
+
