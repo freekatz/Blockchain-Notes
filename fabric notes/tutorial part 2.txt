@@ -3,4 +3,3 @@ fabric 区块结构，通过peer调用获取.block文件，再通过configtxgen�
 fabric 交易结构，根据上面的文件继续深入查看，简要说一说
 fabric 区块链，讲解哈希指针 Hc()，包括前一个区块的内容哈希和位置，而计算时 Hn() = H(Hc(), Datac)
 
-
