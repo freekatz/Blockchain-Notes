@@ -9,5 +9,6 @@ tex/
 tmp/
 
 *.bak
+*/bak*
 bak/
 */wenan*
