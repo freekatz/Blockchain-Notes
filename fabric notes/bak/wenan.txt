@@ -1,3 +1,5 @@
+掌握这些基本的就好了，原理暂时都无需去了解
+
 Channel, Organization, Cluster, Client, App, CA
 
 
