@@ -31,8 +31,39 @@
 
 ## 核心配置文件
 
-`fabric/config/`
+网络开发步骤其实就是写配置文件的步骤：根据设置选项自动生成配置文件
 
-#### core.yaml
+`core.yaml`
 
-【中文翻译】
+> 与 Peer 相关。peer 节点和 P2P 网络相关的配置文件
+
+`crypto-config.yaml`
+
+> 与 CA 相关。与组织结构及身份证书关联的配置文件
+
+cryptogen generate --config=./crypto-config.yaml
+
+证书和密钥（即MSP材料）将被输出到当前一个名为 `crypto-config` 的目录中，该目录下有两个子目录：
+
+- **ordererOrganizations** 子目录下包括构成 Orderer 组织(1个 Orderer 节点)的身份信息
+
+- **peerOrganizations** 子目录下为所有的 Peer 节点组织(2个组织，4个节点)的相关身份信息. 其中最关键的是 MSP 目录, 代表了实体的身份信息
+
+`configtx.yaml`
+
+> 与 TX 相关。创建服务、启动初始区块及应用通道交易时，在这个配置文件中指定 Orderer 服务的相关配置和当前的联盟（组织）信息
+
+`docker-compose-*.yaml`
+
+> 与容器相关：ca、network、couchdb 等的容器环境配置
+
+`orderer.yaml`
+
+> 与 Orderer 相关。当使用了 solo 时，由于配置简单，都在 core 里面了，所以无需额外配置这个文件。而当使用其它排序策略时则需要配置。
+
+
+
+
+
+
+
