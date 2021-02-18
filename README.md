@@ -17,15 +17,12 @@ Enjoy it~
 ## TODO.LIST
 
 - [x] Fabric 环境搭建
-- [x] Fabric 框架概览
-- [x] Fabric 网络
-  - [x] Fabric 运行时架构
-  - [ ] :soon: Fabric 交易流程
-  - [ ] Fabric 网络部署流程
-- [ ] Fabric 链码
+- [x] Fabric 框架概览 
+- [x] Fabric 网络：运行时架构
+- [ ] :soon: Fabric 网络：交易流程 
+- [ ] Fabric 网络：部署流程
+- [ ] Fabric 链码开发
 - [ ] Fabric 服务端开发流程
-- [ ] Fabric SDK
+- [ ] Fabric SDK 开发
 - [ ] Fabric 客户端开发流程
 - [ ] Fabric 项目实例
-  - [ ] 医疗方案共享和溯源
-  - [ ] ......
