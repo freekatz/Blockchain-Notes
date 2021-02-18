@@ -10,9 +10,9 @@ Enjoy it~
 
 ## Content
 
-- [区块链相关公开课笔记](./course notes)
-- [Hyperledger Fabric 笔记](./fabric notes/)
-- [区块链相关文献笔记](./literature notes)
+- [区块链相关公开课笔记](./course-notes/)
+- [Hyperledger Fabric 笔记](./fabric-notes/)
+- [区块链相关文献笔记](./literature-notes)
 
 ## TODO.LIST
 
