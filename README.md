@@ -1,18 +1,6 @@
 # blockchain-notes
 
-本仓库所有笔记封存
-
-所有笔记均已移到个人博客：
-
-[1uvu.com](http://1uvu.com/)
-
-笔记源仓库：
-
-[1uvu.com.git](https://github.com/1uvu/1uvu.com)
-
----
-
-区块链学习笔记分享。
+区块链笔记分享。
 
 Enjoy it~
 
@@ -31,8 +19,8 @@ Enjoy it~
 - [x] Fabric 环境搭建
 - [x] Fabric 框架概览 
 - [x] Fabric 网络：运行时架构
-- [ ] :soon: Fabric 网络：交易流程 
-- [ ] Fabric 网络：部署流程
+- [x] Fabric 网络：交易流程 
+- [ ] :soon: Fabric 网络：部署流程
 - [ ] Fabric 链码开发
 - [ ] Fabric 服务端开发流程
 - [ ] Fabric SDK 开发
